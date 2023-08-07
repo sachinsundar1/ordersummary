@@ -1,0 +1,151 @@
+#size{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 0%;
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: 50px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-top: 5px;
+   
+}
+#s1{
+    list-style-type: none;
+    display:inline-block;
+    color: brown;
+    padding: 9px;
+    margin: 5px;
+}
+*{
+    margin: 15;
+    padding: 15;
+    box-sizing: border-box;
+}
+.back{
+ min-height: 100vh;
+ justify-content: center;
+background-attachment:scroll;
+align-items: center;
+background-size: cover;
+
+
+}
+#sap{
+    text-decoration: none;
+    margin: 50px;
+    display: blocks;
+    padding: 15px;
+    color: brown;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+    
+    
+}
+.material-symbols-outlined{
+   margin: 0px,2px,10px,1px;
+}
+#san{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ list-style-type: none;
+ text-decoration: none;
+ letter-spacing: 2PX;
+ display: block;
+ background-color: burlywood;
+ box-sizing: border-box;
+ border-radius: 12px;
+ border-style: solid;
+ color: brown;
+}
+body{
+   
+    border-style:solid;
+    /* border-top: 10PX; */
+   border-width: 8PX; 
+   border-color: chocolate;
+   border-radius: 30px;
+  
+}
+#block{
+    background-color: blanchedalmond;
+    display:inline ;
+}
+
+.line{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(229, 229, 20);
+    font-size: medium;
+    text-align: center;
+    padding-top: 0%;
+}
+#gender{
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    background-color: rgb(228, 216, 216);
+    margin-left: 50PX;
+    border-style: solid;
+    border-width: 3px;
+}
+#top{
+    margin: 20px;
+    margin-top:5px;
+}
+
+.learnbutton{
+    background-color: var(--bright-blue);
+font-size: large;
+font-style: inherit;
+align-items: center;
+margin-right: 450px;
+}
+h3{
+    margin-left: 35PX;
+   
+}
+input{
+    margin-left: 50PX;
+}
+.more{
+    background-color: var(--bright-blue);
+font-size: large;
+font-style: inherit;
+align-items: center;
+margin-left: 400px;
+}
+.submit{
+    background-color: brown;
+    font-size: 25px;;;;
+    margin-left: 300px;
+    text-transform: uppercase;
+}
+.sachin{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    background-color: rgba(228, 101, 10, 0.277);
+    margin-left: 50PX;
+   border-color: rgb(255, 159, 42);
+   box-sizing: border-box;
+}
+.sundar{
+    font-size: large;
+font-style: inherit;
+margin: CENTER;
+margin-left: 35PX;
+display: inline;
+background-color: blanchedalmond;
+}
+#sat{
+    color: aliceblue;
+}
+#titlehome{
+    color: blue;
+    text-align: center;
+    background-color: gray;
+}
+.home{
+    background-color: skyblue;
+    color: blue;
+    size: 20px;
+    font-size: large;
+    }
+
